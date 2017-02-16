@@ -1,0 +1,16 @@
+{
+  "name": "india-census-data",
+  "version": "0.1.0",
+  "description": "India Census 2011 v2 - Educational Level Age,Sex - more than 7 yrs - State wise",
+  "main": "index.js",
+  "repository": "ssh://git@gitlab.stackroute.in:2222/assignments/india-census-data.git",
+  "author": "Neelanjan Sen <neelanjan.sen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node census.js"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
